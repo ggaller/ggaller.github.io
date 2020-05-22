@@ -4,6 +4,7 @@ title:  "NuGet local repository"
 date:   2020-05-19 15:09:28 +0300
 tagline: Faster development of projects using NuGet packages
 categories: nuget
+image: assets/img/2020-05-19-nuget-local/nuget_logo.png
 ---
 
 [NuGet](https://www.nuget.org) is amazing thing and written a huge amount of articles that describe all benefits of used it. Many companies produce a lot of packages and publish it to public or [private](https://docs.microsoft.com/en-us/nuget/hosting-packages/nuget-server) NuGet repository. There is nothing easier to add NuGet package into your project and start using it. 
