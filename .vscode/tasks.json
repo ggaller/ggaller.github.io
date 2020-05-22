@@ -11,6 +11,9 @@
             },
             "type": "shell",
             "command": "bundle exec jekyll serve",
+            "args": [
+                "--drafts"
+            ],
             "problemMatcher": []
         }
     ]
